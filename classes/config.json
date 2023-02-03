@@ -1,0 +1,8 @@
+{
+
+    "host": "host",
+    "user": "user_of_database",
+    "password": "user_password",
+    "database": "apirest"
+
+}
